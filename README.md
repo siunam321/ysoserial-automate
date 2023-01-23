@@ -11,7 +11,7 @@ A python script that generates and send ysoserial tool's payload, which is an Ja
 ## Installation
 
 ```bash
-wget https://raw.githubusercontent.com/siunam321/CVE-1999-1053-PoC/main/ysoserial-automate.py
+wget https://raw.githubusercontent.com/siunam321/ysoserial-automate/main/ysoserial-automate.py
 ```
 
 ## Usage
